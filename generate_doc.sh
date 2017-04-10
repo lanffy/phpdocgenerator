@@ -1,3 +1,3 @@
 #!/bin/bash
 
-./vendor/bin/phpdoc run -d ./vendor/service/community/php -t ./docs/community/
+./vendor/bin/phpdoc run -d ./path/to/code/ -t ./path/to/doc

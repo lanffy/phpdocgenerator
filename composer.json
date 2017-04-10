@@ -1,12 +1,5 @@
 {
 	"require-dev": {
-		"phpdocumentor/phpdocumentor": "^2.8",
-		"service/community":"@dev"
-	},
-	"repositories": {
-		"community": {
-			"type": "git",
-			"url": "git@gitlab.corp.anjuke.com:_site-service/community-service-intf.git"
-		}
+		"phpdocumentor/phpdocumentor": "^2.8"
 	}
 }
